@@ -9,7 +9,7 @@
   },
   "main": "sdl.js",
   "engines": {
-    "node": "0.4"
+    "node": ">=0.4 <0.7"
   },
   "dependencies": {},
   "devDependencies": {}
